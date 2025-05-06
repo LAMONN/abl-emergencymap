@@ -1,26 +1,6 @@
 # abl-emergencymap
 This is a custom minimap script made for emergency services RP servers. It includes different map versions (Cayo Perico, Roxwood County, and bridges) with road icons for Interstates, Rural (US Routes), and Urban (State Routes). Plus, it has modern zone names for even better navigation and realism.
 
----
-icon: hashtag
-cover: ../.gitbook/assets/23152C76-AD36-461C-AAB6-B5F466D7142D.jpg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Installation
 
 ## <mark style="color:yellow;">**Remove Old Minimap Script**</mark>

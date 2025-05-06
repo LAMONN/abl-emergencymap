@@ -16,9 +16,8 @@ This is a custom minimap script made for emergency services RP servers. It inclu
   * `SetMapZoomDataLevel`
   * `SetRadarZoom`
 
-{% hint style="warning" %}
-Remove these lines if found, **but do not remove them from the new script!**
-{% endhint %}
+*❗Remove these lines if found, **but do not remove them from the new script!**
+
 
 ## <mark style="color:yellow;">**Ensuring**</mark>&#x20;
 

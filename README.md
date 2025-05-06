@@ -34,9 +34,7 @@ This is a custom minimap script made for emergency services RP servers. It inclu
 
 ## <mark style="color:yellow;">Styles</mark>
 
-{% hint style="warning" %}
-I**f you want to use Cayo Bridge or Roxwood County styles, follow this guide.**
-{% endhint %}
+❗I**f you want to use Cayo Bridge or Roxwood County styles, follow this guide.**
 
 #### <mark style="color:yellow;">How to Change the Default Map</mark>
 
